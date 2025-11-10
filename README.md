@@ -256,10 +256,10 @@ FuelEU-Maritime/
 
 ## 👨‍💻 Author
 
-**Ayush Dubey**  
+**Dhananjay Sisodiya**  
 🎓 MCA, Maulana Azad National Institute of Technology (MANIT), Bhopal  
-🌐 [GitHub](https://github.com/dubeyayush09)  
-📧 Email: dubeyayush09@gmail.com  
+🌐 [GitHub](https://github.com/Dhananjay-Sisodiya)  
+📧 Email: dhananjaysisodiya098@gmail.com 
 
 ---
 
